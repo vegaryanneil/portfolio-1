@@ -19,7 +19,7 @@ const AboutSection = () => {
                 <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste, exercitationem qui rem ullam est molestiae obcaecati ad repudiandae illo inventore.</p>
                 <button>Contact Us</button>
             </div>
-            <img src="{home1}" alt="guy with camera" />
+            <img src={home1} alt="guy with camera" />
         </div>
     )
 }
