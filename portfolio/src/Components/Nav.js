@@ -4,10 +4,10 @@ import styled from 'styled-components';
 const Nav = () => {
     return (
         <StyledNav>
-          <h1><a id="logo" href="home">Ryan Neil</a></h1>
+          <h1><a id="logo" href="/">Ryan Neil</a></h1>
             <ul>
                 <li>
-                    <a href="About">About Me</a>
+                    <a href="/">About Me</a>
                 </li> 
                 <li>
                     <a href="Work">My Work</a>
