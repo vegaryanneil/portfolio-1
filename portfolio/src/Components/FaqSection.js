@@ -7,45 +7,29 @@ const FaqSection = () => {
     return (
         <Faq>
             <h2>Any Questions <span>FAQ</span></h2>
-            <Toggle>
-            <div className="question">
-                <h2>How do I start?</h2>
-            <div className="answer">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, molestias.</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </div>
-            <div className="faq-line"></div>
-            </div>
+            <Toggle title="How Do I start">
+                <div className="answer">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, molestias.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                 </div>
             </Toggle>
-            <Toggle>
-            <div className="question">
-                <h2>How do I start?</h2>
-            <div className="answer">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, molestias.</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </div>
-            <div className="faq-line"></div>
-            </div>
+            <Toggle title="Daily Schedule">
+                <div className="answer">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, molestias.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                </div>
             </Toggle>
-            <Toggle>
-            <div className="question">
-                <h2>How do I start?</h2>
-            <div className="answer">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, molestias.</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </div>
-            <div className="faq-line"></div>
-            </div>
+            <Toggle title="Question 3">
+                <div className="answer">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, molestias.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                </div>
             </Toggle>
-            <Toggle>
-            <div className="question">
-                <h2>How do I start?</h2>
-            <div className="answer">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, molestias.</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </div>
-            <div className="faq-line"></div>
-            </div>
+            <Toggle title="Question 4">
+                 <div className="answer">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, molestias.</p>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+                </div>
             </Toggle>
             
         </Faq>
