@@ -1,11 +1,13 @@
 import React from 'react';
 import styled from 'styled-components';
 import {About} from '../styles';
+import Toggle from './Toggle';
 
 const FaqSection = () => {
     return (
         <Faq>
             <h2>Any Questions <span>FAQ</span></h2>
+            <Toggle>
             <div className="question">
                 <h2>How do I start?</h2>
             <div className="answer">
@@ -14,22 +16,8 @@ const FaqSection = () => {
             </div>
             <div className="faq-line"></div>
             </div>
-            <div className="question">
-                <h2>What are your payment methods?</h2>
-            <div className="answer">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, molestias.</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </div>
-            <div className="faq-line"></div>
-            </div>
-            <div className="question">
-                <h2>What Services do you offer??</h2>
-            <div className="answer">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, molestias.</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </div>
-            <div className="faq-line"></div>
-            </div>
+            </Toggle>
+            <Toggle>
             <div className="question">
                 <h2>How do I start?</h2>
             <div className="answer">
@@ -38,6 +26,28 @@ const FaqSection = () => {
             </div>
             <div className="faq-line"></div>
             </div>
+            </Toggle>
+            <Toggle>
+            <div className="question">
+                <h2>How do I start?</h2>
+            <div className="answer">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, molestias.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            </div>
+            <div className="faq-line"></div>
+            </div>
+            </Toggle>
+            <Toggle>
+            <div className="question">
+                <h2>How do I start?</h2>
+            <div className="answer">
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, molestias.</p>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            </div>
+            <div className="faq-line"></div>
+            </div>
+            </Toggle>
+            
         </Faq>
     )
 }
