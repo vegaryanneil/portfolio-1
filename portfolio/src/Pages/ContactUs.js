@@ -2,6 +2,8 @@ import React from 'react'
 import { motion } from 'framer-motion'
 import { pageAnimation, TitleAnim } from './Animation'
 import styled from 'styled-components';
+import ScrollTop from '../Components/ScrollTop';
+
 
 const ContactUs = () => {
     return (
@@ -30,7 +32,7 @@ const ContactUs = () => {
                 <h2>Send Us A Message</h2>
                 </Social>
                 </Hide>
-
+                <ScrollTop />
             </div>
         </ContactStyle>
     )

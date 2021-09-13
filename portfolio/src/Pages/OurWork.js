@@ -4,9 +4,10 @@ import {Link} from 'react-router-dom';
 import athlete from '../img/athlete-small.png';
 import theracer from '../img/theracer-small.png';
 import goodtimes from '../img/goodtimes-small.png';
-import { motion } from 'framer-motion'
-import { sliderContainer,fade, photoAnim, pageAnimation, lineAnim, slider } from './Animation'
+import { motion } from 'framer-motion';
+import { sliderContainer,fade, photoAnim, pageAnimation, lineAnim, slider } from './Animation';
 import {useScroll} from '../Components/useScroll';
+import ScrollTop from '../Components/ScrollTop';
 
 const OurWork = () => {
     const [element, controls] = useScroll();
@@ -42,9 +43,10 @@ const OurWork = () => {
                 <img src={goodtimes} alt="good times" />
                 </Link>
                 </Movie>
+                <ScrollTop />
         </Work>
-    )
-}
+    );
+};
 
 const Work = styled(motion.div)`
 min-height: 100vh;
