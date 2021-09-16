@@ -24,7 +24,7 @@ const Nav = () => {
 const StyledNav = styled.nav`
 min-height: 10vh;
 display: flex;
-margin: auto;
+/* margin: auto; */
 justify-content: space-between;
 align-items: center;
 padding: 1rem 10rem;
@@ -50,6 +50,15 @@ ul{
 li{
     padding-left: 10rem;
     position: relative;
+}
+    @media (max-width: 1300px) {
+     flex-direction: column;
+     padding: 2rem 0rem;
+     ul {
+         padding: 1rem;
+         justify-content: space-around;
+         width: 100%;
+     }   
 }
 `
 export default Nav
