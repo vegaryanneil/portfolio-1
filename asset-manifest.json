@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/static/js/main.665bf609.chunk.js",
+    "main.js.map": "/static/js/main.665bf609.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.68c117f8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.68c117f8.js.map",
+    "static/js/2.678cd842.chunk.js": "/static/js/2.678cd842.chunk.js",
+    "static/js/2.678cd842.chunk.js.map": "/static/js/2.678cd842.chunk.js.map",
+    "static/js/3.de8ed258.chunk.js": "/static/js/3.de8ed258.chunk.js",
+    "static/js/3.de8ed258.chunk.js.map": "/static/js/3.de8ed258.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.678cd842.chunk.js.LICENSE.txt": "/static/js/2.678cd842.chunk.js.LICENSE.txt",
+    "static/media/athlete-small.9c7a85d4.png": "/static/media/athlete-small.9c7a85d4.png",
+    "static/media/athlete2.b216a5ad.png": "/static/media/athlete2.b216a5ad.png",
+    "static/media/clock.ddec723d.svg": "/static/media/clock.ddec723d.svg",
+    "static/media/diaphragm.fb1e5b13.svg": "/static/media/diaphragm.fb1e5b13.svg",
+    "static/media/good-times2.4ea1be17.jpg": "/static/media/good-times2.4ea1be17.jpg",
+    "static/media/goodtimes-small.94ab060d.png": "/static/media/goodtimes-small.94ab060d.png",
+    "static/media/home1.9836de69.png": "/static/media/home1.9836de69.png",
+    "static/media/home2.a65a4256.png": "/static/media/home2.a65a4256.png",
+    "static/media/money.2e18c561.svg": "/static/media/money.2e18c561.svg",
+    "static/media/teamwork.f9f4ff96.svg": "/static/media/teamwork.f9f4ff96.svg",
+    "static/media/the-racer2.580f15cd.jpg": "/static/media/the-racer2.580f15cd.jpg",
+    "static/media/theracer-small.51874213.png": "/static/media/theracer-small.51874213.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68c117f8.js",
+    "static/js/2.678cd842.chunk.js",
+    "static/js/main.665bf609.chunk.js"
+  ]
+}
