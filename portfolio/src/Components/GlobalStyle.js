@@ -5,7 +5,8 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
+    letter-spacing: .05rem;
 }
 
 html {
