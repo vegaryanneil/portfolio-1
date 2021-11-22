@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.js": "/portfolio-template-videographer/static/js/main.665bf609.chunk.js",
+    "main.js.map": "/portfolio-template-videographer/static/js/main.665bf609.chunk.js.map",
+    "runtime-main.js": "/portfolio-template-videographer/static/js/runtime-main.5e3d942c.js",
+    "runtime-main.js.map": "/portfolio-template-videographer/static/js/runtime-main.5e3d942c.js.map",
+    "static/js/2.51701f5c.chunk.js": "/portfolio-template-videographer/static/js/2.51701f5c.chunk.js",
+    "static/js/2.51701f5c.chunk.js.map": "/portfolio-template-videographer/static/js/2.51701f5c.chunk.js.map",
+    "static/js/3.de8ed258.chunk.js": "/portfolio-template-videographer/static/js/3.de8ed258.chunk.js",
+    "static/js/3.de8ed258.chunk.js.map": "/portfolio-template-videographer/static/js/3.de8ed258.chunk.js.map",
+    "index.html": "/portfolio-template-videographer/index.html",
+    "static/js/2.51701f5c.chunk.js.LICENSE.txt": "/portfolio-template-videographer/static/js/2.51701f5c.chunk.js.LICENSE.txt",
+    "static/media/athlete-small.9c7a85d4.png": "/portfolio-template-videographer/static/media/athlete-small.9c7a85d4.png",
+    "static/media/athlete2.b216a5ad.png": "/portfolio-template-videographer/static/media/athlete2.b216a5ad.png",
+    "static/media/clock.ddec723d.svg": "/portfolio-template-videographer/static/media/clock.ddec723d.svg",
+    "static/media/diaphragm.fb1e5b13.svg": "/portfolio-template-videographer/static/media/diaphragm.fb1e5b13.svg",
+    "static/media/good-times2.4ea1be17.jpg": "/portfolio-template-videographer/static/media/good-times2.4ea1be17.jpg",
+    "static/media/goodtimes-small.94ab060d.png": "/portfolio-template-videographer/static/media/goodtimes-small.94ab060d.png",
+    "static/media/home1.9836de69.png": "/portfolio-template-videographer/static/media/home1.9836de69.png",
+    "static/media/home2.a65a4256.png": "/portfolio-template-videographer/static/media/home2.a65a4256.png",
+    "static/media/money.2e18c561.svg": "/portfolio-template-videographer/static/media/money.2e18c561.svg",
+    "static/media/teamwork.f9f4ff96.svg": "/portfolio-template-videographer/static/media/teamwork.f9f4ff96.svg",
+    "static/media/the-racer2.580f15cd.jpg": "/portfolio-template-videographer/static/media/the-racer2.580f15cd.jpg",
+    "static/media/theracer-small.51874213.png": "/portfolio-template-videographer/static/media/theracer-small.51874213.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e3d942c.js",
+    "static/js/2.51701f5c.chunk.js",
+    "static/js/main.665bf609.chunk.js"
+  ]
+}
